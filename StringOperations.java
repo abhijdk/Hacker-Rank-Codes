@@ -1,4 +1,4 @@
-package Demo;
+package hacker_rank_codes;
 import java.util.Scanner;
 
 public class StringOperations {
